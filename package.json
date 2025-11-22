@@ -1,0 +1,40 @@
+{
+  "name": "your-name-theme",
+  "publisher": "AhumMaitra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheAhumMaitra/Your-Name-VS-Code-theme"
+  },
+  "icon" : "logo.png",
+  "displayName": "Your Name. Theme",
+  "description": "A magical theme inspired by legendery 'Your Name.' film",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "Your Name. Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/your-name.json"
+      }
+    ]
+  },
+  "keywords": [
+		"theme",
+		"dark",
+		"magic",
+		"anime",
+		"your-name",
+		"vscode-theme",
+		"night",
+		"dark-theme"
+	],
+	"license": "MIT",
+  "readme": "README.MD"
+}
