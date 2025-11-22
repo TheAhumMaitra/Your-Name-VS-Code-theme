@@ -8,7 +8,7 @@
   "icon" : "logo.png",
   "displayName": "Your Name. Theme",
   "description": "A magical theme inspired by legendery 'Your Name.' film",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.106.1"
   },
