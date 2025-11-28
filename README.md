@@ -9,7 +9,7 @@ you’re in the right place. ✨
 
 # 🌌 Preview
 
-[`A glimpse of the theme inside your editor`](./screenshots/preview.png)
+![`A glimpse of the theme inside your editor`](/screenshots/preview.png)
 
 # 💫 About This Theme
 
